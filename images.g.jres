@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADwAAAAAAAA/+//AAAA8P/u7t//DwAf7v/+3c8P8OH+3c/8zP9V5f8//cEc/1Di3939HMwPVeXf3f0czA/w4f8//cEc//Ae/t3P/Mz/AO/h//7dzw8A8P/u7t//DwAAAP/v/wAAAAAAAPAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "jun"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
